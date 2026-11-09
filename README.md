@@ -23,9 +23,14 @@
 - Nyaya-Setu AI
 - CycleCast MLOps
 
-### 📊 GitHub Statistics
+## 📫 Let's Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbinJosephG&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinJosephG&layout=compact&theme=tokyonight)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-albinjosephg-1a1917?style=for-the-badge&logo=github&logoColor=white)](https://github.com/albinjosephg)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-sachit1751-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albin-joseph-3a73b8336/)
+[![Email](https://img.shields.io/badge/✉️_Email-sachit1751@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albinedwards.g@outlook.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-AlbinJosephG-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/albinjosephg/)
+
+</div>
 
