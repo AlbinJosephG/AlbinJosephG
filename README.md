@@ -91,7 +91,7 @@ full-stack development with a passion for building AI-driven solutions.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlbinJosephG/AlbinJosephG/main/certifications-autumn.svg" width="100%" alt="Certifications" />
-</p>
+</p> 
 
 ## 🏆 Certifications
 
