@@ -37,12 +37,71 @@ full-stack development with a passion for building AI-driven solutions.
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat-square&logo=googlescholar&logoColor=white)
 
 
-## Projects
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=albinjosephg&theme=autumn&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F206313040%3Fu%3D84b4a3945ed597d4a484e15fb1d5d751b023034e%26v%3D4" alt="Albin's Featured Projects" />
-</p>
+## 🚀 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">TradeArena</h3>
+      <p align="center">
+        A virtual stock market simulation platform with user authentication, portfolio management, wallet tracking and transaction history.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/AlbinJosephG/TradeArena">View Repository →</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Traffic Collision Prediction System</h3>
+      <p align="center">
+        A computer vision system that detects and tracks vehicles, analyses traffic interactions and predicts potential collisions.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/AlbinJosephG/Traffic-Collision-Forecast">View Repository →</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Nyaya-Setu AI</h3>
+      <p align="center">
+        A multilingual AI-powered legal assistance platform featuring conversational support, category-based navigation and RAG-based information retrieval.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Ragavendra0604/Nyaya-Setu-AI">View Repository →</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">CycleCast MLOps</h3>
+      <p align="center">
+        A bike-sharing station occupancy forecasting project exploring time-series modelling, model evaluation and an end-to-end MLOps workflow.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prophet-3B5998?style=flat-square" />
+        <img src="https://img.shields.io/badge/MLOps-FF8C00?style=flat-square" />
+      </p>
+      <p align="center">
+        <i>Repository link coming soon</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="25" height="25" /> GITHUB CONTRIBUTIONS 
 
