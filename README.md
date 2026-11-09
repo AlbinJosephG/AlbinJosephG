@@ -36,11 +36,13 @@ full-stack development with a passion for building AI-driven solutions.
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat-square&logo=googlescholar&logoColor=white)
 
+
 ## Projects
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=albinjosephg&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F206313040%3Fu%3D84b4a3945ed597d4a484e15fb1d5d751b023034e%26v%3D4" alt="albinjosephg projects visual" />
+  <img src="https://www.gitskins.com/api/section/projects?username=albinjosephg&theme=autumn&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F206313040%3Fu%3D84b4a3945ed597d4a484e15fb1d5d751b023034e%26v%3D4" alt="Albin's Featured Projects" />
 </p>
+
 
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="25" height="25" /> GITHUB CONTRIBUTIONS 
 
