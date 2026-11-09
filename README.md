@@ -1,6 +1,13 @@
+<div align="center">
+  <!---->
+</div>
 
-<h1 align="center">Hi, I'm Albin Joseph 👋</h1>
-<h3 align="center">AI & Data Science Student | Aspiring AI Engineer</h3>
+<div align="center">
+  <h1>Albin Joseph G</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=31D7FF&center=true&vCenter=true&width=720&lines=Full-Stack+AI+Engineer" alt="Full-Stack AI Engineer" />
+  </a>
+</div>
 
 - 🎓 B.Tech Artificial Intelligence and Data Science
 - 🤖 Interested in Machine Learning, Deep Learning and Generative AI
