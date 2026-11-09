@@ -87,6 +87,27 @@ full-stack development with a passion for building AI-driven solutions.
 </tr>
 </table>
 
+
+## 🏆 Certifications
+
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/2AHX4VORHCDL">
+    <img src="https://img.shields.io/badge/DeepLearning.AI-Machine_Learning_Specialization-d97706?style=for-the-badge&logo=coursera&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/d304c668d837">
+    <img src="https://img.shields.io/badge/HackerRank-SQL_Advanced-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=cb7280f2-6292-48b7-9c6c-ee026a313a6c">
+    <img src="https://img.shields.io/badge/MathWorks-MATLAB_Onramp-d97706?style=for-the-badge&logo=mathworks&logoColor=white" />
+  </a>
+  <a href="https://archive.nptel.ac.in/content/noc/NOC25/SEM1/Ecertificates/110/noc25-mg18/Course/NPTEL25MG18S65040466901236720.pdf">
+    <img src="https://img.shields.io/badge/NPTEL-Design_Thinking-1F4E79?style=for-the-badge" />
+  </a>
+</p>
+
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="25" height="25" /> GITHUB CONTRIBUTIONS 
 
 <p align="center">
