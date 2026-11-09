@@ -9,11 +9,10 @@
   </a>
 </div>
 
-- 🎓 B.Tech Artificial Intelligence and Data Science
-- 🤖 Interested in Machine Learning, Deep Learning and Generative AI
-- 💻 Building projects involving AI/ML and full-stack development
-- 🌱 Currently exploring MLOps, RAG and LLMs
-- 📫 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
+## 🧑‍💻 About Me
+
+Artificial Intelligence and Data Science student at MIT, Anna University skilled in Python, machine learning, and
+full-stack development with a passion for building AI-driven solutions.
 
 ### 🛠️ Tech Stack
 
