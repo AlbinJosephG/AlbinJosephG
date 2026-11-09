@@ -36,9 +36,7 @@ full-stack development with a passion for building AI-driven solutions.
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat-square&logo=googlescholar&logoColor=white)
 
-
-
-## 🚀 Featured Projects
+##  Projects
 
 <table>
   <tr>
@@ -84,20 +82,6 @@ full-stack development with a passion for building AI-driven solutions.
       </p>
       <p align="center">
         <a href="https://github.com/Ragavendra0604/Nyaya-Setu-AI">View Repository →</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">CycleCast MLOps</h3>
-      <p align="center">
-        A bike-sharing station occupancy forecasting project exploring time-series modelling, model evaluation and an end-to-end MLOps workflow.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prophet-3B5998?style=flat-square" />
-        <img src="https://img.shields.io/badge/MLOps-FF8C00?style=flat-square" />
-      </p>
-      <p align="center">
-        <i>Repository link coming soon</i>
       </p>
     </td>
   </tr>
