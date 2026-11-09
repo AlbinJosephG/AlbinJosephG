@@ -70,21 +70,21 @@ full-stack development with a passion for building AI-driven solutions.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Nyaya-Setu AI</h3>
-      <p align="center">
-        A multilingual AI-powered legal assistance platform featuring conversational support, category-based navigation and RAG-based information retrieval.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Ragavendra0604/Nyaya-Setu-AI">View Repository →</a>
-      </p>
-    </td>
-  </tr>
+  <td colspan="2" align="center" valign="top">
+    <h3 align="center">Nyaya-Setu AI</h3>
+    <p align="center">
+      A multilingual AI-powered legal assistance platform featuring conversational support, category-based navigation and RAG-based information retrieval.
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    </p>
+    <p align="center">
+      <a href="https://github.com/Ragavendra0604/Nyaya-Setu-AI">View Repository →</a>
+    </p>
+  </td>
+</tr>
 </table>
 
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="25" height="25" /> GITHUB CONTRIBUTIONS 
