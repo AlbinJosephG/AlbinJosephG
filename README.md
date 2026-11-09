@@ -23,6 +23,14 @@
 - Nyaya-Setu AI
 - CycleCast MLOps
 
+<h2 align="center">LEETCODE ACTIVITY 🐍</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/albinjosephg/">
+    <img src="https://leetcard.jacoblin.cool/albinjosephg?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+
 ## 📫 Let's Connect
 
 <div align="center">
