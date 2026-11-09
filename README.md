@@ -36,12 +36,77 @@ full-stack development with a passion for building AI-driven solutions.
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat-square&logo=googlescholar&logoColor=white)
 
-### 🚀 Featured Projects
 
-- TradeArena
-- Traffic Collision Prediction System
-- Nyaya-Setu AI
-- CycleCast MLOps
+<h2 align="center">⚡ NEURAL CREDENTIALS // CERTIFICATIONS</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-VERIFIED-00F5FF?style=for-the-badge&labelColor=090014" />
+  <img src="https://img.shields.io/badge/CREDENTIALS-05-FF00E5?style=for-the-badge&labelColor=090014" />
+</p>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 01 // GOOGLE
+**Digital Marketing & E-commerce Foundations**
+
+<img src="https://img.shields.io/badge/SCORE-90.73%25-00F5FF?style=flat-square&labelColor=090014"/>
+
+[↗ ACCESS CREDENTIAL](CERTIFICATE_LINK_1)
+
+</td>
+<td width="50%" align="center">
+
+### 02 // DEEPLEARNING.AI
+**Machine Learning Specialization**
+
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-FF00E5?style=flat-square&labelColor=090014"/>
+
+[↗ ACCESS CREDENTIAL](CERTIFICATE_LINK_2)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 03 // ORACLE
+**OCI 2025 AI Foundations Associate**
+
+<img src="https://img.shields.io/badge/STATUS-CERTIFIED-00F5FF?style=flat-square&labelColor=090014"/>
+
+[↗ ACCESS CREDENTIAL](CERTIFICATE_LINK_3)
+
+</td>
+<td width="50%" align="center">
+
+### 04 // GOOGLE
+**Foundations of Digital Marketing**
+
+<img src="https://img.shields.io/badge/SCORE-95.62%25-FF00E5?style=flat-square&labelColor=090014"/>
+
+[↗ ACCESS CREDENTIAL](CERTIFICATE_LINK_4)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 05 // DEEPLEARNING.AI
+**Advanced Learning Algorithms**
+
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-00F5FF?style=flat-square&labelColor=090014"/>
+
+[↗ ACCESS CREDENTIAL](CERTIFICATE_LINK_5)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <sub>◈ END OF TRANSMISSION // ALBIN JOSEPH G ◈</sub>
+</p>
+
 
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="25" height="25" /> GITHUB CONTRIBUTIONS 
 
