@@ -23,7 +23,17 @@
 - Nyaya-Setu AI
 - CycleCast MLOps
 
-<h2 align="center">LEETCODE ACTIVITY </h2>
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="25" height="25" /> GITHUB CONTRIBUTIONS 
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlbinJosephG/AlbinJosephG/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlbinJosephG/AlbinJosephG/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AlbinJosephG/AlbinJosephG/output/github-snake.svg" />
+  </picture>
+</p>
+
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" width="25" height="25" /> LEETCODE ACTIVITY
 
 <p align="center">
   <a href="https://leetcode.com/u/albinjosephg/">
