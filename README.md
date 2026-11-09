@@ -23,7 +23,7 @@
 - Nyaya-Setu AI
 - CycleCast MLOps
 
-<h2 align="center">LEETCODE ACTIVITY 🐍</h2>
+<h2 align="center">LEETCODE ACTIVITY </h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/albinjosephg/">
